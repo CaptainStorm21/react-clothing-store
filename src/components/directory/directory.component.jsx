@@ -24,13 +24,13 @@ class Directory extends React.Component {
                     title: 'mens',
                     imageUrl: 'https://i.pinimg.com/originals/52/2b/25/522b25d77908a7b75036e405eec1cd76.jpg',
                     id: 3,
-                    size: large
+                    size: 'large'
                 },
                 {
                     title: 'womens',
                     imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2irkUVZkMuJbvxZNdAZoPwx3xW-Aa5p6ZB-aigOx2ea8eoOAF&s',
                     id: 4,
-                    size: large
+                    size: 'large'
                 },
                 {
                     title: 'sneakers',
