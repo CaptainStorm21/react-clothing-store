@@ -26,7 +26,7 @@
     background-position: center;
 
     &.large{
-      height: 300px;
+      height: 400px;
     }
   
     &:first-child {
@@ -45,17 +45,24 @@
       align-items: center;
       justify-content: center;
       border: 1px solid black;
+      background-color: steelblue;
+      opacity: 0.9;
   
       .title {
         font-weight: bold;
         margin-bottom: 6px;
         font-size: 22px;
-        color: #4a4a4a;
+        color: white;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1pt;
+        font-variant: small-caps;
       }
   
       .subtitle {
         font-weight: lighter;
         font-size: 16px;
+        color: lightblue;
+        font-family: 'Roboto', sans-serif;
       }
     }
   }
