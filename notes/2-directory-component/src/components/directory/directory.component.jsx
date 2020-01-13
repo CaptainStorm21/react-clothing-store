@@ -24,18 +24,18 @@ class Directory extends React.Component {
                     title: 'mens',
                     imageUrl: 'https://i.pinimg.com/originals/52/2b/25/522b25d77908a7b75036e405eec1cd76.jpg',
                     id: 3,
-                    size: 'large'
                 },
                 {
                     title: 'womens',
-                    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2irkUVZkMuJbvxZNdAZoPwx3xW-Aa5p6ZB-aigOx2ea8eoOAF&s',
+                    imageUrl: 'https://dellywood.in/storage/blogs/1551419751.jpg',
                     id: 4,
                     size: 'large'
                 },
                 {
                     title: 'sneakers',
-                    imageUrl: 'https://ossineshoes.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/5/1/51_2BZ5XZEZOL_2.jpg',
-                    id: 5
+                    imageUrl: 'https://blobs.continental-tires.com/www8/servlet/blob/47026/7e836a115c3968adbdd6e8da092cc14f/img-outdoor-shoe-data.jpg',
+                    id: 5,
+                    size: 'large'
                 }
             ]
 
