@@ -24,7 +24,10 @@ function App() {
         <Route exact path='/' component = { HomePage }/>  
         <Route  path='/hats' component = { HatsPage }/>
       </Switch>
-
+      {/* As long as a route gets rendered then it just renders 
+          that route it renders nothing else.
+          Now if we put the exact back then we will of course render 
+          our hats page because this home page with */}
     </div>
   );
 }
